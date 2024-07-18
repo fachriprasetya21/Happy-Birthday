@@ -1,0 +1,38 @@
+@media(min-width:370px) and (max-width:670px){
+    .card {
+        align-items: baseline;
+      }
+      .card img.birthday {
+        align-content: center;
+        width: 250px;
+        height: 250px;
+        margin: 0 auto;
+        display: block;
+        float: none;
+      }
+    .img.birthday {
+        max-height: 40vh;
+        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+      }
+      
+      .text {
+        padding: 3em;
+      }
+      .text h1{
+        font-family:cursive;
+        font-size: 40px;
+      }
+      .space {
+        height: 100px;
+      }
+      
+      .credit a{
+        text-decoration: none;
+        color: #fff;
+      }
+      
+      .credit {
+          margin-top: 10px;
+          text-align: center;
+      }
+}
